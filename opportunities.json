@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "example-scholarship-one",
+    "title": "Example Scholarship One (replace me)",
+    "category": "Scholarship",
+    "country": "Worldwide",
+    "deadline": "2027-01-31",
+    "funding": "Fully funded",
+    "description": "Placeholder entry. n8n will replace this file with real opportunities every day.",
+    "eligibility": "International students.",
+    "how_to_apply": "Apply through the official website.",
+    "apply_link": "https://example.com"
+  },
+  {
+    "slug": "example-volunteering-two",
+    "title": "Example Volunteering Program (replace me)",
+    "category": "Volunteering",
+    "country": "Europe",
+    "deadline": "2026-12-15",
+    "funding": "Accommodation and meals covered",
+    "description": "Placeholder entry for testing the opportunity page.",
+    "eligibility": "Ages 18 to 30.",
+    "how_to_apply": "Fill in the online form.",
+    "apply_link": "https://example.com"
+  }
+]
